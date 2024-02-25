@@ -5,7 +5,5 @@
 
 _Skriv din egen dokumentasjon av SmartHus-applikasjonen her..._
 
-tests/demo_house.py
-
-og
+tests/demo_house.py og smarthouse/domain.py
 
