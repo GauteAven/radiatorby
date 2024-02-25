@@ -4,3 +4,8 @@
 
 
 _Skriv din egen dokumentasjon av SmartHus-applikasjonen her..._
+
+tests/demo_house.py
+
+og
+
